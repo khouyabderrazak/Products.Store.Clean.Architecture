@@ -1,0 +1,653 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\apiweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|solutionrelative:apiweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\application\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|solutionrelative:application\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\apiweb\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|solutionrelative:apiweb\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\application\\wrappers\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|solutionrelative:application\\wrappers\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Migrations\\20250429104405_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure.Persistence\\Migrations\\20250429104405_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EBC18E-DA99-4E09-A79D-589092911EA0}|Domain\\Domain.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\domain\\common\\auditablebaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EBC18E-DA99-4E09-A79D-589092911EA0}|Domain\\Domain.csproj|solutionrelative:domain\\common\\auditablebaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EBC18E-DA99-4E09-A79D-589092911EA0}|Domain\\Domain.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EBC18E-DA99-4E09-A79D-589092911EA0}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EFBF7-2E22-445A-8015-CC732B9C1CB5}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\infrastructure.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EFBF7-2E22-445A-8015-CC732B9C1CB5}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EFBF7-2E22-445A-8015-CC732B9C1CB5}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\infrastructure.persistence\\repositories\\genericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EFBF7-2E22-445A-8015-CC732B9C1CB5}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\genericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Migrations\\20250429104017_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure.Persistence\\Migrations\\20250429104017_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\application\\features\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|solutionrelative:application\\features\\products\\commands\\createproduct\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C72F08-0F1C-46F9-B882-B5C79E135187}|Infrastructure.Shared\\Infrastructure.Shared.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\infrastructure.shared\\services\\datetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C72F08-0F1C-46F9-B882-B5C79E135187}|Infrastructure.Shared\\Infrastructure.Shared.csproj|solutionrelative:infrastructure.shared\\services\\datetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\apiweb\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|solutionrelative:apiweb\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\application\\features\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|solutionrelative:application\\features\\products\\commands\\createproduct\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\apiweb\\apiweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|solutionrelative:apiweb\\apiweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|solutionrelative:application\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EFBF7-2E22-445A-8015-CC732B9C1CB5}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\infrastructure.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EFBF7-2E22-445A-8015-CC732B9C1CB5}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\apiweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|solutionrelative:apiweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C72F08-0F1C-46F9-B882-B5C79E135187}|Infrastructure.Shared\\Infrastructure.Shared.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\infrastructure.shared\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C72F08-0F1C-46F9-B882-B5C79E135187}|Infrastructure.Shared\\Infrastructure.Shared.csproj|solutionrelative:infrastructure.shared\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C72F08-0F1C-46F9-B882-B5C79E135187}|Infrastructure.Shared\\Infrastructure.Shared.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\infrastructure.shared\\infrastructure.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26C72F08-0F1C-46F9-B882-B5C79E135187}|Infrastructure.Shared\\Infrastructure.Shared.csproj|solutionrelative:infrastructure.shared\\infrastructure.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C72F08-0F1C-46F9-B882-B5C79E135187}|Infrastructure.Shared\\Infrastructure.Shared.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\infrastructure.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C72F08-0F1C-46F9-B882-B5C79E135187}|Infrastructure.Shared\\Infrastructure.Shared.csproj|solutionrelative:infrastructure.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EFBF7-2E22-445A-8015-CC732B9C1CB5}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\infrastructure.persistence\\infrastructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF9EFBF7-2E22-445A-8015-CC732B9C1CB5}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\infrastructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\apiweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|solutionrelative:apiweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\application\\interfaces\\igenericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|solutionrelative:application\\interfaces\\igenericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\apiweb\\extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|solutionrelative:apiweb\\extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9EFBF7-2E22-445A-8015-CC732B9C1CB5}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\infrastructure.persistence\\repositories\\productrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9EFBF7-2E22-445A-8015-CC732B9C1CB5}|Infrastructure.Persistence\\Infrastructure.Persistence.csproj|solutionrelative:infrastructure.persistence\\repositories\\productrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\apiweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A}|ApiWeb\\ApiWeb.csproj|solutionrelative:apiweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\application\\interfaces\\iauthenticateduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iauthenticateduserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\application\\mappings\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|solutionrelative:application\\mappings\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\application\\parameters\\requestparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|solutionrelative:application\\parameters\\requestparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\application\\wrappers\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DDED76B-E365-4042-9464-1D45DF647880}|Application\\Application.csproj|solutionrelative:application\\wrappers\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EBC18E-DA99-4E09-A79D-589092911EA0}|Domain\\Domain.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\domain\\settings\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EBC18E-DA99-4E09-A79D-589092911EA0}|Domain\\Domain.csproj|solutionrelative:domain\\settings\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EBC18E-DA99-4E09-A79D-589092911EA0}|Domain\\Domain.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EBC18E-DA99-4E09-A79D-589092911EA0}|Domain\\Domain.csproj|solutionrelative:domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EBC18E-DA99-4E09-A79D-589092911EA0}|Domain\\Domain.csproj|c:\\users\\akhouy\\source\\repos\\product.store.cleanarchitecture\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EBC18E-DA99-4E09-A79D-589092911EA0}|Domain\\Domain.csproj|solutionrelative:domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1691082258:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250429104405_init.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Migrations\\20250429104405_init.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Migrations\\20250429104405_init.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Migrations\\20250429104405_init.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Migrations\\20250429104405_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:44:05.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Repositories\\GenericRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\GenericRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Repositories\\GenericRepositoryAsync.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\GenericRepositoryAsync.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:42:12.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ApiWeb\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ApiWeb\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:48:43.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Wrappers\\Response.cs",
+              "RelativeDocumentMoniker": "Application\\Wrappers\\Response.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Wrappers\\Response.cs",
+              "RelativeToolTip": "Application\\Wrappers\\Response.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:05:53.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "ApiWeb\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "ApiWeb\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:53:07.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "Application\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "Application\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AgIAAAkAAADAMjMzMzM7wCAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:04:02.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditableBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Domain\\Common\\AuditableBaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\AuditableBaseEntity.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Domain\\Common\\AuditableBaseEntity.cs",
+              "RelativeToolTip": "Domain\\Common\\AuditableBaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:59:32.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:59:41.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAABgY2ZmZmYowBgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:39:39.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DateTimeService.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Shared\\Services\\DateTimeService.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Shared\\Services\\DateTimeService.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Shared\\Services\\DateTimeService.cs",
+              "RelativeToolTip": "Infrastructure.Shared\\Services\\DateTimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:13:15.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:27:34.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250429104017_init.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Migrations\\20250429104017_init.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Migrations\\20250429104017_init.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Migrations\\20250429104017_init.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Migrations\\20250429104017_init.cs",
+              "ViewState": "AgIAAAoAAACAZWZmZmYowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:40:17.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "Application\\Features\\Products\\Commands\\CreateProduct\\CreateProductCommandValidator.cs",
+              "ViewState": "AgIAAAwAAADAmZmZmZkpwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:02:33.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "ApiWeb\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "ApiWeb\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:49:19.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\ApiWeb.csproj",
+              "RelativeDocumentMoniker": "ApiWeb\\ApiWeb.csproj",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\ApiWeb.csproj",
+              "RelativeToolTip": "ApiWeb\\ApiWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T09:34:10.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Application\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\ServiceExtensions.cs",
+              "RelativeToolTip": "Application\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAgAAAAAMzMzMzMLwBMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:05:09.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAMAAAAAMzMzMzMrwBQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:45:38.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Program.cs",
+              "RelativeDocumentMoniker": "ApiWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Program.cs",
+              "RelativeToolTip": "ApiWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:33:58.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Shared\\Class1.cs",
+              "RelativeToolTip": "Infrastructure.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:12:57.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Infrastructure.Shared",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
+              "RelativeDocumentMoniker": "Infrastructure.Shared\\Infrastructure.Shared.csproj",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Shared\\Infrastructure.Shared.csproj",
+              "RelativeToolTip": "Infrastructure.Shared\\Infrastructure.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T10:13:22.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Shared\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Shared\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Shared\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure.Shared\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:14:47.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Infrastructure.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "RelativeToolTip": "Infrastructure.Persistence\\Infrastructure.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T09:39:34.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\appsettings.json",
+              "RelativeToolTip": "ApiWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T09:45:23.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGenericRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Interfaces\\IGenericRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IGenericRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Interfaces\\IGenericRepositoryAsync.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IGenericRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T10:02:47.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Extensions\\AppExtensions.cs",
+              "RelativeDocumentMoniker": "ApiWeb\\Extensions\\AppExtensions.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Extensions\\AppExtensions.cs",
+              "RelativeToolTip": "ApiWeb\\Extensions\\AppExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:57:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Repositories\\ProductRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Persistence\\Repositories\\ProductRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Infrastructure.Persistence\\Repositories\\ProductRepositoryAsync.cs",
+              "RelativeToolTip": "Infrastructure.Persistence\\Repositories\\ProductRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:42:17.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\ApiWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T09:36:45.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GeneralProfile.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Mappings\\GeneralProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mappings\\GeneralProfile.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Mappings\\GeneralProfile.cs",
+              "RelativeToolTip": "Application\\Mappings\\GeneralProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:06:01.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RequestParameter.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Parameters\\RequestParameter.cs",
+              "RelativeDocumentMoniker": "Application\\Parameters\\RequestParameter.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Parameters\\RequestParameter.cs",
+              "RelativeToolTip": "Application\\Parameters\\RequestParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:05:57.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Wrappers\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Wrappers\\PagedResponse.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Wrappers\\PagedResponse.cs",
+              "RelativeToolTip": "Application\\Wrappers\\PagedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:05:50.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAuthenticatedUserService.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Interfaces\\IAuthenticatedUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthenticatedUserService.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Interfaces\\IAuthenticatedUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAuthenticatedUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:21:37.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-29T09:00:35.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Domain\\Settings\\MailSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\Settings\\MailSettings.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Domain\\Settings\\MailSettings.cs",
+              "RelativeToolTip": "Domain\\Settings\\MailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:59:46.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Domain\\Settings\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "Domain\\Settings\\JWTSettings.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Domain\\Settings\\JWTSettings.cs",
+              "RelativeToolTip": "Domain\\Settings\\JWTSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:59:44.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\akhouy\\source\\repos\\product.store.cleanArchitecture\\Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T08:59:37.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
