@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWeb", "ApiWeb\ApiWeb.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Shared", "Infrastructure.Shared\Infrastructure.Shared.csproj", "{26C72F08-0F1C-46F9-B882-B5C79E135187}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Identity", "Infrastructure.Identity\Infrastructure.Identity.csproj", "{F7AB1519-ADDE-4D9C-BC31-B13AC756A4B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,10 @@ Global
 		{26C72F08-0F1C-46F9-B882-B5C79E135187}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26C72F08-0F1C-46F9-B882-B5C79E135187}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26C72F08-0F1C-46F9-B882-B5C79E135187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AB1519-ADDE-4D9C-BC31-B13AC756A4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AB1519-ADDE-4D9C-BC31-B13AC756A4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AB1519-ADDE-4D9C-BC31-B13AC756A4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AB1519-ADDE-4D9C-BC31-B13AC756A4B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +65,7 @@ Global
 		{D124CF66-A37F-4F06-B5A0-1B9820AA6653} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{3E1B7DF0-A39F-4AA1-B3C3-496A4B2A9E6A} = {D124CF66-A37F-4F06-B5A0-1B9820AA6653}
 		{26C72F08-0F1C-46F9-B882-B5C79E135187} = {CE9C3591-C921-458F-80D6-508DE6FF9870}
+		{F7AB1519-ADDE-4D9C-BC31-B13AC756A4B6} = {CE9C3591-C921-458F-80D6-508DE6FF9870}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BCB7BE6F-B6B8-47A8-B65B-AB15F3735393}

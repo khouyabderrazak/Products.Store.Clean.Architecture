@@ -15,6 +15,6 @@ namespace Application.DTOs.Email
         public string Body { get; set; }
 
         // From is the email address of the sender
-        public string From { get; set; }
+        public string From { get; set; } = null;
     }
 }

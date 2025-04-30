@@ -29,13 +29,22 @@ namespace WebApi.Middlewares
             {
                 var response = context.Response;
                 response.ContentType = "application/json";
-                var responseModel = new Response<string>() { Succeeded = false, Message = error?.Message };
+                var responseModel = new Response<string>()
+                {
+                    Succeeded = false,
+                    Message = error?.Message,
+                    Errors = new List<string>()
+                };
                 
                 switch (error)
                 {
                     case Application.Exceptions.ApiException e:
                         // custom application error
                         response.StatusCode = (int)HttpStatusCode.BadRequest;
+                        break;
+                    case NotFoundException e:
+                        // not found error
+                        response.StatusCode = (int)HttpStatusCode.NotFound;
                         break;
                     case ValidationException e:
                         // custom application error

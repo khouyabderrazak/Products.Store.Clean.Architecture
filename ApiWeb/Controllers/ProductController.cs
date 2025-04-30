@@ -42,6 +42,13 @@ namespace WebApi.Controllers.v1
         [HttpPut("{id}")]
         public async Task<IActionResult> Put(int id, UpdateProductCommand command)
         {
+
+            // Ahmed => 1
+            // Ali => 2
+            // if we sent a request to update the Ahemd with id 2 , we need to check if the id
+            // in the URL matches the id in the command object id ne change^pas.
+            // if the id in the URL does not match the id in the command object, we return a BadRequest 
+
             if (id != command.Id)
             {
                 return BadRequest();

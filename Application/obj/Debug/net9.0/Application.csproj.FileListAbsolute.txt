@@ -13,3 +13,4 @@ C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Application\obj\Deb
 C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Application\obj\Debug\net9.0\refint\Application.dll
 C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Application\obj\Debug\net9.0\Application.pdb
 C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Application\obj\Debug\net9.0\Application.sourcelink.json

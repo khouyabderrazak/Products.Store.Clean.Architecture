@@ -17,3 +17,4 @@ C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Infrastructure.Pers
 C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Infrastructure.Persistence\obj\Debug\net9.0\Infrastructure.Persistence.pdb
 C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Infrastructure.Persistence\obj\Debug\net9.0\Infrastructure.Persistence.genruntimeconfig.cache
 C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Infrastructure.Persistence\obj\Debug\net9.0\ref\Infrastructure.Persistence.dll
+C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Infrastructure.Persistence\obj\Debug\net9.0\Infrastructure.Persistence.sourcelink.json

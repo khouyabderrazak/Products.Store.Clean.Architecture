@@ -15,3 +15,4 @@ C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Infrastructure.Shar
 C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Infrastructure.Shared\obj\Debug\net9.0\refint\Infrastructure.Shared.dll
 C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Infrastructure.Shared\obj\Debug\net9.0\Infrastructure.Shared.pdb
 C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Infrastructure.Shared\obj\Debug\net9.0\ref\Infrastructure.Shared.dll
+C:\Users\akhouy\source\repos\product.store.cleanArchitecture\Infrastructure.Shared\obj\Debug\net9.0\Infrastructure.Shared.sourcelink.json

@@ -9,7 +9,10 @@ namespace WebApi.Extensions
 {
     public static class AppExtensions
     {
-        
+        //give me a text in long english:
+        // This extension method adds the ErrorHandlerMiddleware to the ASP.NET Core pipeline.
+
+
         public static void UseErrorHandlingMiddleware(this IApplicationBuilder app)
         {
             app.UseMiddleware<ErrorHandlerMiddleware>();
