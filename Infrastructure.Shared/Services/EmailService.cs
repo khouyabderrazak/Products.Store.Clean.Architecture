@@ -18,11 +18,11 @@ namespace Infrastructure.Shared.Services
         {
             _mailSettings = new MailSettings(){
               
-                EmailFrom= "abderrazzakkhouy790@gmail.com",
+                EmailFrom= "abderrazzak@gmail.com",
                 SmtpHost= "smtp.gmail.com",
                 SmtpPort= 587,
-                SmtpUser=  "abderrazzakkhouy790@gmail.com",
-                SmtpPass= "gpwxdqfpgpxtprey",
+                SmtpUser=  "abderrazzak@gmail.com",
+                SmtpPass= "gpwxdqfpgdfk22KDSKpxtprey",
                 DisplayName= "Khouy Abderrazzak"
             
             };
